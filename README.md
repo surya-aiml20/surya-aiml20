@@ -48,7 +48,7 @@ A multi-agent assistant that **plans, retrieves, critiques and reports** autonom
 Transforms unstructured legislative documents into **searchable intelligence** using RAG, semantic search and LLM summarization — a complete pipeline from ingestion to an interactive AI interface.
 `Python` `LLMs` `RAG` `Vector Embeddings` `Apache Airflow` `Supabase` `Streamlit`
 
-### 🫁 [PneumoniaAI — Pneumonia Detection System](https://github.com/surya-aiml20/Pneumonia-Identification-Django-Application)
+### 🫁 [PneumoniaAI — Pneumonia Detection System](https://github.com/surya-aiml20/PneumoniaAI-AI-Powered-Pneumonia-Detection-System)
 A CNN-based system detecting pneumonia from chest X-rays with **89%+ accuracy**, deployed as a **Django web app** for real-time image upload and AI-assisted prediction.
 `Python` `TensorFlow` `CNN` `Scikit-learn` `Django`
 
