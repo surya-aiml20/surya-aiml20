@@ -109,6 +109,5 @@ An AI-driven data analysis tool, plus a fully **local LLM chat app** using DeepS
 ---
 
 <p align="center">
-  <i>"Make it work, make it right, make it ship."</i><br/>
   ⭐ If you like my work, feel free to star a repo — and let's build something together!
 </p>
