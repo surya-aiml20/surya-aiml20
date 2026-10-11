@@ -108,19 +108,6 @@ An AI-driven data analysis tool, plus a fully **local LLM chat app** using DeepS
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=surya-aiml20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya-aiml20&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=surya-aiml20&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>"Make it work, make it right, make it ship."</i><br/>
   ⭐ If you like my work, feel free to star a repo — and let's build something together!
