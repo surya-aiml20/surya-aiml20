@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Surya J 👋</h1>
 
-<h3 align="center">AI/ML Engineer in the making · RAG · LLMs · Multi-Agent Systems · Computer Vision</h3>
+<h3 align="center">AI/ML Engineer in the making · RAG · LLMs · Multi-Agent Systems </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+RAG+%26+Agentic+AI+systems;Turning+raw+data+into+AI-powered+insights;CNNs+%7C+LLMs+%7C+Data+Pipelines;1st+Prize+%E2%80%94+2x+Hackathon+Winner+%F0%9F%8F%86" alt="Typing SVG" />
