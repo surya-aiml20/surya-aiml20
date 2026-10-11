@@ -15,14 +15,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a third-year **B.E. CSE (AI & ML)** student at **Sri Eshwar College of Engineering** (CGPA 8.15) who loves building AI systems that go beyond notebooks — from data ingestion and orchestration all the way to a usable AI interface.
+I'm a final-year **B.E. CSE (AI & ML)** student at **Sri Eshwar College of Engineering** (CGPA 8.15) who loves building AI systems that go beyond notebooks — from data ingestion and orchestration all the way to a usable AI interface.
 
-- 🔭 Building **RAG pipelines**, **multi-agent systems**, and **LLM-powered apps**
-- 🏗️ Experienced in **end-to-end Data & AI pipelines** (Airflow · Streamlit · Vector DBs)
-- 👁️ Hands-on with **CNNs & Computer Vision** (pneumonia detection, CCTV theft detection)
-- 🏆 **2× hackathon winner** (1st prize at a 6-hour AI hackathon and an inter-college hackathon)
-- 🌱 Currently exploring **Agentic AI, LangGraph, and MCP**
-- 📫 Open to **AI/ML & Data Engineering internships and collaborations**
+-  Building **RAG pipelines**, **multi-agent systems**, and **LLM-powered apps**
+-  Experienced in **end-to-end Data & AI pipelines** (Airflow · Streamlit · Vector DBs)
+-  Hands-on with **CNNs & Computer Vision** (pneumonia detection, CCTV theft detection)
+-  **2× hackathon winner** (1st prize at a 6-hour AI hackathon and an inter-college hackathon)
+-  Currently exploring **Agentic AI, LangGraph, and MCP**
+-  Open to **AI/ML & Data Engineering internships and collaborations**
 
 ---
 
